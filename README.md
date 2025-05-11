@@ -4,11 +4,11 @@
 
 ## Contents
 
-Scenario
-Business task
-Data sources
-Cleaning and data manipulation in SQL
-Descriptive analysis in SQL
-Visualizations and key findings
-Recommendations
-Tableau dashboard: https://public.tableau.com/shared/9SW5SYXDD?:display_count=n&:origin=viz_share_link
+1. Scenario
+2. Task
+3. Data sources
+4. Cleaning and data manipulation
+5. Descriptive analysis
+6. Visualizations and key findings
+7. Recommendations
+8. Tableau dashboard: https://public.tableau.com/shared/9SW5SYXDD?:display_count=n&:origin=viz_share_link
